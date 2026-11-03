@@ -1,0 +1,1 @@
+# plugins-minimal-maintenance-mode
